@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Split the Bill App</string>
+    <string name="txtTitle">Split the Bill</string>
+    <string name="btnSplit">Bill Split</string>
+    <string name="txtPeople">Number of People</string>
+    <string name="prompt">Quality of Service</string>
+    <string name="description">Restaurant Image</string>
+    <string name="txtRequest">Restaurant Bill</string>
+    <string name="btnCost">TOTAL COST</string>
+    <string-array name="txtGroup">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+
+
+
+</resources>
